@@ -1,9 +1,11 @@
 # Robot Manipulation Exercises book
 
-Robot manipulation exercises is a compendium of exercises related to robot manipulation courses offered to Univeritat de Girona like: Robot Manipulation, SIstemes Robotitzats, Informàtica Industrial i Robòtica, Robòtica, ...
-It contain exercises from previous exams curated by Dr. Narcís Palomeras and Professor Pere Ridao but includes exercises from many other professors.
+**Robot Manipulation Exercises** is a comprehensive compendium of exercises related to various robot manipulation courses offered at the Universitat de Girona. These courses include:
 
-This is a live book that is growing every year with new exercises.
-The last version can be accessed from here:
+* Robot Manipulation
+* Sistemes Robotitzats
+* Informàtica Industrial i Robòtica
+* Robòtica
 
-[latest](versions/robot_manipulation_exercises_v2024a.pdf)
+The book contains exercises from previous exams, curated by Dr. Narcís Palomeras and Professor Pere Ridao, as well as contributions from many other professors.
+This is a dynamic and evolving resource, with new exercises added every year. The latest version of the book can be accessed from [here](versions/robot_manipulation_exercises_v2024a.pdf).
